@@ -8,5 +8,6 @@ Technologies: Python, Flask, RESTful API, JSONIFY, SQL
 
 Principles: DRY, KISS
 
+<img width="1440" alt="Screenshot 2022-04-29 at 8 54 28 AM" src="https://user-images.githubusercontent.com/88192329/165891385-41208a34-0741-4a6d-98ba-de84f6cd3ea9.png">
 
 
